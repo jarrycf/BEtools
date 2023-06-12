@@ -1,0 +1,2000 @@
+Epoch: 0
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.21      0.14      0.17      1847
+           1       0.79      0.86      0.82      6891
+
+    accuracy                           0.71      8738
+   macro avg       0.50      0.50      0.50      8738
+weighted avg       0.67      0.71      0.69      8738
+
+binary f1:
+0.8243449327602941
+macro f1:
+0.49676263031457324
+accuracy:
+0.7100022888532845
+AUC:
+0.5011414887414254
+------------------------------
+Epoch: 1
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.4936862791222625
+------------------------------
+Epoch: 2
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.4906269620135709
+------------------------------
+Epoch: 3
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.5028350028053037
+------------------------------
+Epoch: 4
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.4908913071882638
+------------------------------
+Epoch: 5
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.5000193279574898
+------------------------------
+Epoch: 6
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.49789745607152036
+------------------------------
+Epoch: 7
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.5027922220213477
+------------------------------
+Epoch: 8
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.50543453451875
+------------------------------
+Epoch: 9
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.39      0.50      0.44      8738
+weighted avg       0.62      0.79      0.70      8738
+
+binary f1:
+0.8818222535031033
+macro f1:
+0.44091112675155164
+accuracy:
+0.7886243991760128
+AUC:
+0.5316449341069859
+------------------------------
+Epoch: 10
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.60      0.02      0.03      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.51      0.46      8738
+weighted avg       0.75      0.79      0.70      8738
+
+binary f1:
+0.882126348228043
+macro f1:
+0.4579052793771794
+accuracy:
+0.7898832684824902
+AUC:
+0.6116961484801979
+------------------------------
+Epoch: 11
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.53      0.01      0.02      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.66      0.50      0.45      8738
+weighted avg       0.73      0.79      0.70      8738
+
+binary f1:
+0.8816928502725232
+macro f1:
+0.4504158031266922
+accuracy:
+0.7888532845044632
+AUC:
+0.616993776633395
+------------------------------
+Epoch: 12
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.53      0.02      0.03      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.66      0.51      0.46      8738
+weighted avg       0.74      0.79      0.70      8738
+
+binary f1:
+0.8816389441911245
+macro f1:
+0.45709243797482735
+accuracy:
+0.7890821698329137
+AUC:
+0.6318077132221379
+------------------------------
+Epoch: 13
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.54      0.02      0.04      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.51      0.46      8738
+weighted avg       0.74      0.79      0.70      8738
+
+binary f1:
+0.881660988622485
+macro f1:
+0.46115357925131545
+accuracy:
+0.7893110551613641
+AUC:
+0.6382073492279856
+------------------------------
+Epoch: 14
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.59      0.02      0.04      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.46      8738
+weighted avg       0.75      0.79      0.70      8738
+
+binary f1:
+0.8821185242319064
+macro f1:
+0.4629570723349313
+accuracy:
+0.7901121538109407
+AUC:
+0.6309568902479219
+------------------------------
+Epoch: 15
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.60      0.02      0.05      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.51      0.46      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8822319362303934
+macro f1:
+0.46403263478186335
+accuracy:
+0.7903410391393911
+AUC:
+0.6320995182388742
+------------------------------
+Epoch: 16
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.61      0.03      0.05      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8823302469135803
+macro f1:
+0.4655933978850646
+accuracy:
+0.7905699244678416
+AUC:
+0.6423130866693113
+------------------------------
+Epoch: 17
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.02      0.04      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.46      8738
+weighted avg       0.75      0.79      0.70      8738
+
+binary f1:
+0.881959624533882
+macro f1:
+0.46335234088296595
+accuracy:
+0.7898832684824902
+AUC:
+0.6447246029263627
+------------------------------
+Epoch: 18
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.53      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.66      0.51      0.48      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8813165537270087
+macro f1:
+0.4764987614672398
+accuracy:
+0.7895399404898146
+AUC:
+0.6533093588091528
+------------------------------
+Epoch: 19
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.03      0.05      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8819556127372145
+macro f1:
+0.4658353931112276
+accuracy:
+0.7899977111467155
+AUC:
+0.6497661356428199
+------------------------------
+Epoch: 20
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821028218013143
+macro f1:
+0.4727811959569519
+accuracy:
+0.7905699244678416
+AUC:
+0.6577311790674764
+------------------------------
+Epoch: 21
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.63      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8827621746972429
+macro f1:
+0.47519256275845756
+accuracy:
+0.7917143511100938
+AUC:
+0.6487699994272325
+------------------------------
+Epoch: 22
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.55      0.03      0.05      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8816941297631307
+macro f1:
+0.4671357246753798
+accuracy:
+0.7896543831540398
+AUC:
+0.6434325761095289
+------------------------------
+Epoch: 23
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.60      0.03      0.05      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8822129302026376
+macro f1:
+0.46699978462488173
+accuracy:
+0.7904554818036164
+AUC:
+0.6482224132494877
+------------------------------
+Epoch: 24
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.63      0.03      0.06      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.882640586797066
+macro f1:
+0.4697587628918112
+accuracy:
+0.7912565804531929
+AUC:
+0.6473671118460973
+------------------------------
+Epoch: 25
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.62      0.03      0.06      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8825686892735346
+macro f1:
+0.4697081172465864
+accuracy:
+0.7911421377889677
+AUC:
+0.6464679296936904
+------------------------------
+Epoch: 26
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.48      0.03      0.05      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.64      0.51      0.47      8738
+weighted avg       0.73      0.79      0.71      8738
+
+binary f1:
+0.8807268509568916
+macro f1:
+0.4674456942571888
+accuracy:
+0.7881666285191119
+AUC:
+0.6345580187177912
+------------------------------
+Epoch: 27
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.63      0.02      0.04      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.51      0.46      8738
+weighted avg       0.76      0.79      0.70      8738
+
+binary f1:
+0.8823378291586383
+macro f1:
+0.46058129653105057
+accuracy:
+0.7903410391393911
+AUC:
+0.6479573216699324
+------------------------------
+Epoch: 28
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.62      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8825499034127494
+macro f1:
+0.4726213031966111
+accuracy:
+0.7912565804531929
+AUC:
+0.6504998123381038
+------------------------------
+Epoch: 29
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.62      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8826218530680574
+macro f1:
+0.4726733944003526
+accuracy:
+0.7913710231174181
+AUC:
+0.6547269387807374
+------------------------------
+Epoch: 30
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8820116054158607
+macro f1:
+0.47559379863875434
+accuracy:
+0.7905699244678416
+AUC:
+0.6570138447102327
+------------------------------
+Epoch: 31
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.55      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8817010309278351
+macro f1:
+0.47152536208968443
+accuracy:
+0.7898832684824902
+AUC:
+0.6576005582165544
+------------------------------
+Epoch: 32
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.52      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.66      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8812838360402165
+macro f1:
+0.47074395883643483
+accuracy:
+0.7891966124971389
+AUC:
+0.6564561624246121
+------------------------------
+Epoch: 33
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.54      0.03      0.05      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8815806410091388
+macro f1:
+0.46607411823418754
+accuracy:
+0.7894254978255894
+AUC:
+0.6335231087338247
+------------------------------
+Epoch: 34
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.63      0.03      0.05      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.882598906400772
+macro f1:
+0.46874637189536267
+accuracy:
+0.7911421377889677
+AUC:
+0.6501588231693811
+------------------------------
+Epoch: 35
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.61      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8824779444909524
+macro f1:
+0.4725692239147109
+accuracy:
+0.7911421377889677
+AUC:
+0.6521246178701738
+------------------------------
+Epoch: 36
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8819426504779125
+macro f1:
+0.48213598387349443
+accuracy:
+0.790798809796292
+AUC:
+0.6618321630883625
+------------------------------
+Epoch: 37
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.03      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8820003866726815
+macro f1:
+0.47366992279014375
+accuracy:
+0.7904554818036164
+AUC:
+0.6540569422055572
+------------------------------
+Epoch: 38
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.61      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8826297131807928
+macro f1:
+0.47701093002231887
+accuracy:
+0.7915999084458686
+AUC:
+0.6568019050137743
+------------------------------
+Epoch: 39
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.05      0.09      1847
+           1       0.80      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.52      0.49      8738
+weighted avg       0.75      0.79      0.72      8738
+
+binary f1:
+0.8821513995733402
+macro f1:
+0.4869152613212989
+accuracy:
+0.7913710231174181
+AUC:
+0.6621516636539408
+------------------------------
+Epoch: 40
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.65      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.72      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8830884248517659
+macro f1:
+0.4787891103850666
+accuracy:
+0.7924010070954451
+AUC:
+0.6564479519711255
+------------------------------
+Epoch: 41
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.52      0.05      0.09      1847
+           1       0.80      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.66      0.52      0.49      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.880963169137161
+macro f1:
+0.4868555362212692
+accuracy:
+0.7895399404898146
+AUC:
+0.6559837667156386
+------------------------------
+Epoch: 42
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.55      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8817315124967792
+macro f1:
+0.47057887100248796
+accuracy:
+0.7898832684824902
+AUC:
+0.6444790357266295
+------------------------------
+Epoch: 43
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821219339470804
+macro f1:
+0.46988237716396736
+accuracy:
+0.7904554818036164
+AUC:
+0.6547853154978713
+------------------------------
+Epoch: 44
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.66      0.03      0.05      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.73      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.882787886581367
+macro f1:
+0.46739498333228513
+accuracy:
+0.7913710231174181
+AUC:
+0.6475063359951703
+------------------------------
+Epoch: 45
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.63      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8828039430449068
+macro f1:
+0.4761845802181056
+accuracy:
+0.791828793774319
+AUC:
+0.6543098948849817
+------------------------------
+Epoch: 46
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821028218013143
+macro f1:
+0.4727811959569519
+accuracy:
+0.7905699244678416
+AUC:
+0.654649430528446
+------------------------------
+Epoch: 47
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821861304459913
+macro f1:
+0.47476653461075075
+accuracy:
+0.790798809796292
+AUC:
+0.6541718885543686
+------------------------------
+Epoch: 48
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8819931758192235
+macro f1:
+0.4693033300609242
+accuracy:
+0.7902265964751659
+AUC:
+0.6544696255255378
+------------------------------
+Epoch: 49
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.59      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8823681155681673
+macro f1:
+0.4782398953475354
+accuracy:
+0.7912565804531929
+AUC:
+0.6583299921894624
+------------------------------
+Epoch: 50
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.60      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8822923374114617
+macro f1:
+0.4714647709667792
+accuracy:
+0.790798809796292
+AUC:
+0.6610816333569747
+------------------------------
+Epoch: 51
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.62      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8828689370485037
+macro f1:
+0.4809882210597488
+accuracy:
+0.7921721217669947
+AUC:
+0.6623015731778863
+------------------------------
+Epoch: 52
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.50      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.65      0.51      0.47      8738
+weighted avg       0.73      0.79      0.71      8738
+
+binary f1:
+0.8809078599522857
+macro f1:
+0.4709572345007997
+accuracy:
+0.7886243991760128
+AUC:
+0.6535949961646575
+------------------------------
+Epoch: 53
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.62      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8827053140096618
+macro f1:
+0.4746689050827397
+accuracy:
+0.7915999084458686
+AUC:
+0.6555392236933731
+------------------------------
+Epoch: 54
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821028218013143
+macro f1:
+0.4727811959569519
+accuracy:
+0.7905699244678416
+AUC:
+0.6572639689080734
+------------------------------
+Epoch: 55
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.59      0.02      0.04      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.46      8738
+weighted avg       0.75      0.79      0.70      8738
+
+binary f1:
+0.88209214161794
+macro f1:
+0.46143289778231034
+accuracy:
+0.7899977111467155
+AUC:
+0.6457737338871814
+------------------------------
+Epoch: 56
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.60      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8824819401444789
+macro f1:
+0.47927342443329424
+accuracy:
+0.7914854657816434
+AUC:
+0.6573247812621267
+------------------------------
+Epoch: 57
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.59      0.03      0.05      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821864951768489
+macro f1:
+0.46549615516890214
+accuracy:
+0.7903410391393911
+AUC:
+0.6533022090362601
+------------------------------
+Epoch: 58
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.05      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8822009816584861
+macro f1:
+0.4832691655280383
+accuracy:
+0.7912565804531929
+AUC:
+0.6567627776851974
+------------------------------
+Epoch: 59
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.66      0.03      0.06      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.73      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8829130211013895
+macro f1:
+0.47044201779707157
+accuracy:
+0.7917143511100938
+AUC:
+0.6580879998761753
+------------------------------
+Epoch: 60
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.54      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8815831882936891
+macro f1:
+0.4728853282273336
+accuracy:
+0.789768825818265
+AUC:
+0.6623375577491477
+------------------------------
+Epoch: 61
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.61      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.882679401135777
+macro f1:
+0.4822487914769794
+accuracy:
+0.7919432364385443
+AUC:
+0.6511069537669757
+------------------------------
+Epoch: 62
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8820076124121025
+macro f1:
+0.47796583152250693
+accuracy:
+0.7906843671320668
+AUC:
+0.6554732650742159
+------------------------------
+Epoch: 63
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.61      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8827515002903789
+macro f1:
+0.48230551265150573
+accuracy:
+0.7920576791027695
+AUC:
+0.6546917791832711
+------------------------------
+Epoch: 64
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.65      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.72      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8830198402473589
+macro f1:
+0.47634598569744996
+accuracy:
+0.7921721217669947
+AUC:
+0.6505175689169359
+------------------------------
+Epoch: 65
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.62      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8826599652039435
+macro f1:
+0.4760770444313024
+accuracy:
+0.7915999084458686
+AUC:
+0.6511636412520525
+------------------------------
+Epoch: 66
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.55      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.51      0.48      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8817232039210628
+macro f1:
+0.47537936845799333
+accuracy:
+0.7901121538109407
+AUC:
+0.6526726361770494
+------------------------------
+Epoch: 67
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.60      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.882375676372069
+macro f1:
+0.47346242834996893
+accuracy:
+0.7910276951247425
+AUC:
+0.6568002550661838
+------------------------------
+Epoch: 68
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.02      0.04      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.46      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8820315011250403
+macro f1:
+0.4633999254714217
+accuracy:
+0.7899977111467155
+AUC:
+0.6561650252438054
+------------------------------
+Epoch: 69
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.56      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8819161985925495
+macro f1:
+0.48071652908993356
+accuracy:
+0.7906843671320668
+AUC:
+0.6544338373766085
+------------------------------
+Epoch: 70
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821028218013143
+macro f1:
+0.4727811959569519
+accuracy:
+0.7905699244678416
+AUC:
+0.6562164878948453
+------------------------------
+Epoch: 71
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.59      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8823112142903206
+macro f1:
+0.4777223923152974
+accuracy:
+0.7911421377889677
+AUC:
+0.6503740234765543
+------------------------------
+Epoch: 72
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.50      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.65      0.51      0.47      8738
+weighted avg       0.73      0.79      0.71      8738
+
+binary f1:
+0.8809493099445377
+macro f1:
+0.47194673619054295
+accuracy:
+0.788738841840238
+AUC:
+0.6537499733847739
+------------------------------
+Epoch: 73
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.65      0.03      0.06      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.72      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8829663962920047
+macro f1:
+0.4734090477855492
+accuracy:
+0.7919432364385443
+AUC:
+0.6550723278097016
+------------------------------
+Epoch: 74
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.59      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.882303678412678
+macro f1:
+0.47340990372246805
+accuracy:
+0.7909132524605172
+AUC:
+0.6531418891287075
+------------------------------
+Epoch: 75
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.61      0.03      0.05      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8823718567110425
+macro f1:
+0.466614054977213
+accuracy:
+0.7906843671320668
+AUC:
+0.6458476279685602
+------------------------------
+Epoch: 76
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8819354838709678
+macro f1:
+0.4779110617735406
+accuracy:
+0.7905699244678416
+AUC:
+0.6564840543957865
+------------------------------
+Epoch: 77
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.59      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8822355289421158
+macro f1:
+0.4709378158849396
+accuracy:
+0.7906843671320668
+AUC:
+0.6572685651906471
+------------------------------
+Epoch: 78
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.56      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8818907779495105
+macro f1:
+0.4702061692622296
+accuracy:
+0.7901121538109407
+AUC:
+0.6576247181634166
+------------------------------
+Epoch: 79
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.59      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8824060926810379
+macro f1:
+0.48156631576534237
+accuracy:
+0.7914854657816434
+AUC:
+0.6581289342902087
+------------------------------
+Epoch: 80
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.64      0.03      0.05      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8825458052073288
+macro f1:
+0.46573932634130105
+accuracy:
+0.7909132524605172
+AUC:
+0.6520273495312616
+------------------------------
+Epoch: 81
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821331959294086
+macro f1:
+0.4718358287339351
+accuracy:
+0.7905699244678416
+AUC:
+0.6577758847902881
+------------------------------
+Epoch: 82
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.50      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.65      0.51      0.48      8738
+weighted avg       0.73      0.79      0.71      8738
+
+binary f1:
+0.8807232805941233
+macro f1:
+0.4765243725923906
+accuracy:
+0.7886243991760128
+AUC:
+0.6541833203341034
+------------------------------
+Epoch: 83
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.63      0.03      0.06      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8826671815665831
+macro f1:
+0.47124591672449834
+accuracy:
+0.7913710231174181
+AUC:
+0.6561419652620035
+------------------------------
+Epoch: 84
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.882061191626409
+macro f1:
+0.471784055577428
+accuracy:
+0.7904554818036164
+AUC:
+0.6561123447743056
+------------------------------
+Epoch: 85
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.64      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.72      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8828794024853518
+macro f1:
+0.47383044674396124
+accuracy:
+0.791828793774319
+AUC:
+0.6464308451573685
+------------------------------
+Epoch: 86
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.64      0.03      0.06      1847
+           1       0.79      1.00      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.72      0.51      0.47      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.882780817508851
+macro f1:
+0.472302309836342
+accuracy:
+0.7915999084458686
+AUC:
+0.6527567442197033
+------------------------------
+Epoch: 87
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.882094943240454
+macro f1:
+0.47755862780683955
+accuracy:
+0.790798809796292
+AUC:
+0.6557669164608749
+------------------------------
+Epoch: 88
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.61      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8824628067237716
+macro f1:
+0.4730425885850772
+accuracy:
+0.7911421377889677
+AUC:
+0.6556956937232143
+------------------------------
+Epoch: 89
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.57      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8820076124121025
+macro f1:
+0.47796583152250693
+accuracy:
+0.7906843671320668
+AUC:
+0.6620781231327602
+------------------------------
+Epoch: 90
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.60      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8825048418334409
+macro f1:
+0.48304496875156433
+accuracy:
+0.7917143511100938
+AUC:
+0.656551623678068
+------------------------------
+Epoch: 91
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.61      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.70      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8826981363255303
+macro f1:
+0.479439469381658
+accuracy:
+0.791828793774319
+AUC:
+0.6572977142647476
+------------------------------
+Epoch: 92
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.55      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.52      0.48      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8817037754114231
+macro f1:
+0.4782067589828443
+accuracy:
+0.7902265964751659
+AUC:
+0.6540470032355472
+------------------------------
+Epoch: 93
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.54      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.67      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8815306319654705
+macro f1:
+0.4699511838782806
+accuracy:
+0.7895399404898146
+AUC:
+0.6560184941839741
+------------------------------
+Epoch: 94
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.56      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8818187673085592
+macro f1:
+0.4701551507143104
+accuracy:
+0.7899977111467155
+AUC:
+0.6532862988273509
+------------------------------
+Epoch: 95
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.56      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.68      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8818907779495105
+macro f1:
+0.4702061692622296
+accuracy:
+0.7901121538109407
+AUC:
+0.6531565422346906
+------------------------------
+Epoch: 96
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.04      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.52      0.48      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821366363460421
+macro f1:
+0.4785366726034008
+accuracy:
+0.7909132524605172
+AUC:
+0.659981746865512
+------------------------------
+Epoch: 97
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.53      0.03      0.06      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.66      0.51      0.47      8738
+weighted avg       0.74      0.79      0.71      8738
+
+binary f1:
+0.8813821557503868
+macro f1:
+0.4722593059810997
+accuracy:
+0.7894254978255894
+AUC:
+0.6597075805742085
+------------------------------
+Epoch: 98
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.62      0.04      0.08      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.71      0.52      0.48      8738
+weighted avg       0.76      0.79      0.71      8738
+
+binary f1:
+0.8827132632664904
+macro f1:
+0.4789773738803219
+accuracy:
+0.791828793774319
+AUC:
+0.6596867990914603
+------------------------------
+Epoch: 99
+Classification report on all events:
+              precision    recall  f1-score   support
+
+           0       0.58      0.03      0.07      1847
+           1       0.79      0.99      0.88      6891
+
+    accuracy                           0.79      8738
+   macro avg       0.69      0.51      0.47      8738
+weighted avg       0.75      0.79      0.71      8738
+
+binary f1:
+0.8821444680713963
+macro f1:
+0.47377535105153873
+accuracy:
+0.7906843671320668
+AUC:
+0.6613493569957818
+------------------------------

@@ -400,7 +400,7 @@ class BEDICT_CriscasModel:
         ax.text(5, -0.1 ,r'序列ID : {}'.format(seq_id), bbox={ 'alpha': 0.2, 'pad': 3, },
                     fontsize=12) # 图上添加文字，表示序列id。
         # ax.text(0.2, -0.1 ,r'编辑器类型 : {}'.format('ABE8e'), bbox={ 'alpha': 0.2, 'pad': 3, },fontsize=12) # 图上添加文字，表示序列id。
-        ax.text(0.2, -0.1 ,r'编辑器类型 : {}'.format('Target-AID'), bbox={ 'alpha': 0.2, 'pad': 3, },fontsize=12) # 图上添加文字，表示序列id。
+        ax.text(0.2, -0.1 ,r'编辑器类型 : {}'.format(model_name), bbox={ 'alpha': 0.2, 'pad': 3, },fontsize=12) # 图上添加文字，表示序列id。
         # 创建一个新的 axes 用于颜色条
         from mpl_toolkits.axes_grid1 import make_axes_locatable
 
@@ -411,8 +411,11 @@ class BEDICT_CriscasModel:
         cbar = plt.colorbar(ax.get_children()[0], cax=cax, orientation='horizontal')
         cbar.set_label('注意力得分')
 
+        # if fig_dir: # 将图形保存为PDF文件，文件名由模型名称、序列id、基础位置和预测选项组成。
+        #     fig.savefig(os.path.join(fig_dir,f'{model_name}_seqattn_{seq_id}_basepos_{base_pos}_predoption_{pred_option}.pdf'),bbox_inches='tight')
+        #     plt.close() 
         if fig_dir: # 将图形保存为PDF文件，文件名由模型名称、序列id、基础位置和预测选项组成。
-            fig.savefig(os.path.join(fig_dir,f'{model_name}_seqattn_{seq_id}_basepos_{base_pos}_predoption_{pred_option}.pdf'),bbox_inches='tight')
+            fig.savefig(os.path.join(fig_dir,f'{model_name}_seqattn_{seq_id}_basepos_{base_pos}_predoption_{pred_option}.png'),bbox_inches='tight')
             plt.close() 
 
 

@@ -15,7 +15,6 @@ from .attnetion_analysis import filter_attn_rows
 plt.rcParams['font.sans-serif'] = ['Arial Unicode MS']
 
 
-
 class BEDICT_CriscasModel:
     def __init__(self, base_editor, device):
         self.base_editor = base_editor

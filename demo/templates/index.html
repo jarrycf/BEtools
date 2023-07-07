@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>输入序列实现旁编辑结果预测</title>
+  </head>
+  <body>
+    {% block content %}{% endblock %}
+
+    <h1>上传 CSV 文件</h1>
+    <form method="post" enctype="multipart/form-data" action="/predict">
+      <label for="csv_file">CSV 文件</label>
+      <input type="file" name="csv_file" id="csv_file" />
+      <br />
+      <label for="teditor">编辑技术</label>
+      <select name="teditor" id="teditor">
+        <option value="ABEmax">ABEmax</option>
+        <option value="ABE8e">ABE8e</option>
+        <option value="BE4max">BE4max</option>
+        <option value="Target-AID">Target-AID</option>
+      </select>
+      <br />
+      <label for="win_left">左侧窗口大小</label>
+      <input
+        type="number"
+        name="win_left"
+        id="win_left"
+        value="1"
+        min="1"
+        max="20"
+      />
+      <br />
+      <label for="win_right">右侧窗口大小</label>
+      <input
+        type="number"
+        name="win_right"
+        id="win_right"
+        value="10"
+        min="1"
+        max="20"
+      />
+      <br />
+      <input type="submit" value="运行" />
+    </form>
+
+    {% if html_pages %}
+    <h2>结果</h2>
+    <ul>
+      <!-- {% for page in html_pages %}
+      <li><a href="{{ page }}">{{ page }}</a></li>
+      {% endfor %} -->
+      {% for page in html_pages %}
+      <li><a href="file://{{ page }}">{{ page }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </body>
+</html>

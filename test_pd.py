@@ -38,3 +38,6 @@ import torch.nn as nn
 
 a = nn.Parameter(torch.randn(64, dtype=torch.float32), requires_grad=True)
 print(a)
+
+def liake(a):
+    

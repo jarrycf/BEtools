@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>输入序列实现单碱基编辑结果预测</title>
+  </head>
+  <body>
+    <h1>输入序列实现单碱基编辑结果预测</h1>
+    <form action="/" method="POST">
+      <label for="teditor">编辑技术:</label>
+      <input type="text" name="teditor" id="teditor" required /><br />
+
+      <label for="sample_df">要预测的序列:</label>
+      <input type="text" name="sample_df" id="sample_df" required /><br />
+
+      <label for="pos">要预测编辑的序列位置:</label>
+      <input type="number" name="pos" id="pos" required /><br />
+
+      <label for="pred_option">预测方式:</label>
+      <select name="pred_option" id="pred_option" required>
+        <option value="mean">mean</option>
+        <option value="median">median</option>
+        <option value="max">max</option></select
+      ><br />
+
+      <input type="submit" value="预测" />
+    </form>
+  </body>
+</html>

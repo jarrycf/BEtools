@@ -1,8 +1,11 @@
 import os
+import sys
 import pandas as pd
 
+sys.path.append('../')
 from perbase.utilities import * # create_directory, get_device, report_available_cuda_devices
 from perbase.predict_model import *
+
 
 from flask import Flask, render_template, request
 import matplotlib

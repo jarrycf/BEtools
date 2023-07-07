@@ -1,5 +1,7 @@
 from flask import Flask, render_template, request
 import os
+import sys
+sys.path.append('../')
 import pandas as pd
 from haplotype.dataset import *
 from haplotype.data_preprocess import *

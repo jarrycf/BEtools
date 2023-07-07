@@ -340,6 +340,13 @@ class BEDICT_CriscasModel:
 
     def _highlight_attn_scores(self, df, pred_option, model_name, cmap = 'YlOrRd', fig_dir=None):
         """高亮模型注意力分数"""
+
+
+        if model_name == 'ABEmax' and "ABE8e":
+            cmap = 'Oranges'
+        elif model_name == "BE4max" and 'Target-AID':
+            cmap = 'Blues'
+
         # we index these axes from 0 subscript
         fig, ax = plt.subplots(figsize=(11,3), 
                                nrows=1, 
@@ -385,8 +392,7 @@ class BEDICT_CriscasModel:
         # plt.subplots_adjust(top=0.9)  # 调整顶部边距
 
         # cmap = 'YlGnBu_r'
-        # cmap = 'Oranges'
-        cmap = 'Blues'
+
         # g = sns.heatmap(attn_scores, cmap=cmap,annot=base_letters,fmt="",linewidths=.5, cbar_kws=cbar_kws, ax=ax)        
         # g = sns.heatmap(attn_scores, cmap=cmap,annot=base_letters,fmt="",linewidths=.5, cbar_kws=False, ax=ax)    
         sns.heatmap(attn_scores, cmap=cmap, annot=base_letters, fmt="", linewidths=1, cbar=False, ax=ax)    
@@ -399,7 +405,7 @@ class BEDICT_CriscasModel:
                 fontsize=12) # 在图上添加文字，表示编辑概率。
         ax.text(5, -0.1 ,r'序列ID : {}'.format(seq_id), bbox={ 'alpha': 0.2, 'pad': 3, },
                     fontsize=12) # 图上添加文字，表示序列id。
-        # ax.text(0.2, -0.1 ,r'编辑器类型 : {}'.format('ABE8e'), bbox={ 'alpha': 0.2, 'pad': 3, },fontsize=12) # 图上添加文字，表示序列id。
+        
         ax.text(0.2, -0.1 ,r'编辑器类型 : {}'.format(model_name), bbox={ 'alpha': 0.2, 'pad': 3, },fontsize=12) # 图上添加文字，表示序列id。
         # 创建一个新的 axes 用于颜色条
         from mpl_toolkits.axes_grid1 import make_axes_locatable
